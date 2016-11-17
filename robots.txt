@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://pull8007.hitweb114.com/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
